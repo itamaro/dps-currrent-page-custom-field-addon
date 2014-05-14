@@ -8,9 +8,7 @@ Stable tag: master
 License: Apache License, Version 2.0
 License URI: http://www.apache.org/licenses/LICENSE-2.0
 
-Allow parsing \"current\" as the current page ID
-when using the display posts shortcode plugin to
-query custom fields using the meta_key and meta_value attributes.
+Convert "current" as the current page ID when using the display posts shortcode to query custom fields.
 
 == Description ==
 Usage:
